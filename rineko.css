@@ -1,0 +1,66 @@
+h2{
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
+
+.莉{
+    display: flex;
+}
+
+.間{
+    margin-top: 96px;
+}
+
+.イラスト{
+    width: 85%;
+    margin-left: 40px;
+}
+
+.犬2{
+    width: 150px;
+}
+
+.ころん{
+    width: 600px;
+}
+
+.莉犬{
+    width: 900px;
+}
+
+.ななもり{
+    width: 900px;
+}
+
+.さとみ{
+    width: 890px;
+}
+
+.ジェル{
+    width: 900px;
+}
+
+.すとぷり{
+    width: 700px;
+}
+.るぅと{
+    width: 900px;
+}
+.題目{
+    width: 25%;
+    margin: auto;
+    display: block;
+}
+
+.画像{
+    position: relative;
+}
+
+.STPR{
+    width: 65%;
+    margin: auto;
+  display: block;
+}
